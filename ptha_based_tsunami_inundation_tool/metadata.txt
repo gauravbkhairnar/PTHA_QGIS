@@ -1,0 +1,47 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=PTHA Based Tsunami Inundation Tool
+qgisMinimumVersion=3.0
+description=A QGIS processing plugin that generates tsunami inundation hazard zones using Probabilistic Tsunami Hazard Assessment (PTHA) water levels and coastal digital elevation models.
+version=0.1
+author=Gaurav Khairnar
+email=gaurav.b.khairnar@gmail.com
+
+about=PTHA Based Tsunami Inundation Tool provides an automated workflow for mapping tsunami inundation zones using Probabilistic Tsunami Hazard Assessment (PTHA) derived water levels and high-resolution coastal elevation data. The tool integrates spatial analysis techniques including nearest-point association, water level computation at different exceedance rate, raster-based inundation detection, and polygon generation of hazard zones. It is intended to support tsunami hazard assessment, coastal risk analysis, and emergency planning.
+
+tracker=https://github.com/gauravbkhairnar/PTHA_QGIS/issues
+repository=https://github.com/gauravbkhairnar/PTHA_QGIS/
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=Tsunami, PTHA, inundation, Hazard, Coastal ,DEM, flood modelling
+
+homepage=https://github.com/gauravbkhairnar/PTHA_QGIS/
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=Raster, Vector
+
+# If the plugin can run on QGIS Server.
+server=False
+
