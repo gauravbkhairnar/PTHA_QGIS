@@ -54,7 +54,16 @@ Search 'PTHA Based Tsunami Inundation' tool --> Open it.
 <img width="502" height="858" alt="processing_toolbox2" src="https://github.com/user-attachments/assets/72c7696e-c92d-409a-9dba-5e499747e545" />
 <br>
 
+### Input parameters:
+ * Select DEM.
+ * Use Layer extent if Village/Town Polygon layer is available, else draw extent of map by clicking dropdown arrow in Area of Interest field (Area if interst should be within DEM extent).
+ * Choose return period
+ * Set Uncertinity level
+Run 
 <img width="1112" height="767" alt="image" src="https://github.com/user-attachments/assets/d0085d33-771d-44f2-9243-d0fdd7fe819f" />
+
+## Output
+After successful run, Hazard layer is addeed in Map window (of your area of interest). 
 
 
 
