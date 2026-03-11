@@ -43,9 +43,14 @@ Users are solely responsible for evaluating the suitability of the input dataset
   * Go to the [releases](https://github.com/gauravbkhairnar/) section of this repository, --> download the .zip file.
   * Rename the downloaded zip file to ptha_based_tsunami_inundation_tool.zip
   * Open QGIS --> Plugins --> Manage and Install Plugins... --> install from ZIP tab --> select the renamed zip --> install plugin (If any warnings appear during installation, they can be safely ignored). <br>
-  
+
+<div style="text-align:center; margin:20px 0;">
 <img width="475" height="245" alt="offline_plugin_install" src="https://github.com/user-attachments/assets/4f96d9d9-e250-47d1-ac76-6a2ae4d64699" /><br>
+</div>
+
+<div style="text-align:center; margin:20px 0;">
 <img width="1308" height="773" alt="offline_plugin_install2" src="https://github.com/user-attachments/assets/065b0645-731c-4cc9-ba3c-ea701a49b885" />
+</div>
 
 ## Step-by-Step workflow
 ## Step 1: Open the DEM into QGIS
