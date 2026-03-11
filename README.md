@@ -102,6 +102,11 @@ Run
 <img width="1112" height="767" alt="plugin" src="https://github.com/user-attachments/assets/f92bfd38-d2b2-4c57-a925-190b2e7d3bed" />
 </p>
 
+<p align="center">
+<img width="1112" height="767" alt="plugin" src="https://github.com/user-attachments/assets/c5d3b1dd-8e83-4549-8c68-73e28bd629b8" />
+</p>
+
+
 ## Output
 After successful run, Hazard layer is addeed in Map window (of your area of interest). <br>
 
