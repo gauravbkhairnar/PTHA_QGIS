@@ -42,7 +42,7 @@ Users are solely responsible for evaluating the suitability of the input dataset
 
 ## Installation
 ### For offline installation:
-  * Go to the [releases](https://github.com/gauravbkhairnar/) section of this repository, --> download the .zip file.
+  * Go to the [releases](https://github.com/gauravbkhairnar/PTHA_QGIS/releases) section of this repository, --> download the .zip file.
   * Rename the downloaded zip file to ptha_based_tsunami_inundation_tool.zip
   * Open QGIS --> Plugins --> Manage and Install Plugins... --> install from ZIP tab --> select the renamed zip --> install plugin (If any warnings appear during installation, they can be safely ignored). <br>
 
