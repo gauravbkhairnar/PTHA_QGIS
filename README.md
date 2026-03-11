@@ -115,7 +115,7 @@ After successful run, Hazard layer is addeed in Map window (of your area of inte
 <p align="center">
 <img width="1920" height="1032" alt="output" src="https://github.com/user-attachments/assets/753cd85c-eb62-422e-8ee6-3aa2f4c50197" />
 </p>
----
+
 
 ## Methodological Limitations
 
