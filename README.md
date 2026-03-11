@@ -1,8 +1,19 @@
-# PTHA Based Tsunami Inundation Tool 
-
-A QGIS Processing plugin for generating tsunami inundation zones using Probabilistic Tsunami Hazard Assessment (PTHA) water levels and coastal Digital Elevation Models (DEM).
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7c114e40-6fcd-4757-a346-44311c998f47" 
+           width="520" 
+           alt="PTHA Based Tsunami Inundation Tool "/>
+    </td>
+    <td>
+      <h1>PTHA Based Tsunami Inundation Tool </h1>
+      <p>
+        A QGIS Processing plugin for generating tsunami inundation zones using Probabilistic Tsunami Hazard Assessment (PTHA) water levels and coastal Digital Elevation Models (DEM).
 This tool automates tsunami hazard mapping by combining offshore PTHA water level estimates with coastal terrain elevation to identify areas potentially affected by tsunami inundation.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,7 +82,9 @@ Run
 ## Output
 After successful run, Hazard layer is addeed in Map window (of your area of interest). <br>
 <img width="1920" height="1032" alt="output" src="https://github.com/user-attachments/assets/753cd85c-eb62-422e-8ee6-3aa2f4c50197" />
+
 ---
+
 
 
 
