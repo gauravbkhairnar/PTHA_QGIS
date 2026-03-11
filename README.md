@@ -44,48 +44,50 @@ Users are solely responsible for evaluating the suitability of the input dataset
   * Rename the downloaded zip file to ptha_based_tsunami_inundation_tool.zip
   * Open QGIS --> Plugins --> Manage and Install Plugins... --> install from ZIP tab --> select the renamed zip --> install plugin (If any warnings appear during installation, they can be safely ignored). <br>
 
+<p align="center">
+<img width="475" height="245" alt="offline_plugin_install" src="https://github.com/user-attachments/assets/22a96794-9759-4242-8c49-1b0f0685d273" />
+</p>
 
-<div style="text-align:center; margin:20px 0;">
-<img src="https://github.com/user-attachments/assets/4f96d9d9-e250-47d1-ac76-6a2ae4d64699" 
-style="max-width:100%; border:1px solid #ccc; padding:6px;">
-</div>
+<p align="center">
+<img width="1308" height="773" alt="offline_plugin_install2" src="https://github.com/user-attachments/assets/76c96550-7a67-4fdc-8163-ef057119ae2c" />
+</p>
 
-
-<div style="text-align:center; margin:20px 0;">
-<img src="https://github.com/user-attachments/assets/065b0645-731c-4cc9-ba3c-ea701a49b885" 
-style="max-width:100%; border:1px solid #ccc; padding:6px;">
-</div>
-
+ 
 ## Step-by-Step workflow
 ## Step 1: Open the DEM into QGIS
 
 Add DEM to QGIS by clicking Layer --> Add Layer --> Add Raster Layer <br>
 <br>
 
-<div style="text-align:center; margin:20px 0;">
-<img src="<img width="932" height="715" alt="add layer" src="https://github.com/user-attachments/assets/4144a398-53de-4912-9eb2-1657653fc91e" />" 
-style="max-width:100%; border:1px solid #ccc; padding:6px;">
-</div>
+<p align="center">
+ <img width="932" height="715" alt="add layer" src="https://github.com/user-attachments/assets/7165428e-7ae3-4a19-97a5-6ec026673f5b" />
+</p>
 
 
 Click on **Browser** icon <img width="29" height="28" alt="image" src="https://github.com/user-attachments/assets/a5d358fc-f833-41d8-86db-e38c4fc36ae7" /> and select DEM directory and select DEM file.
 
-<div style="text-align:center; margin:20px 0;">
-<img src="<img width="932" height="715" alt="add layer" src="https://github.com/user-attachments/assets/147efce6-c304-4b0b-afa3-a25b8e6b1372" />" 
-style="max-width:100%; border:1px solid #ccc; padding:6px;">
-</div>
 
-
+<p align="center">
+<img width="1002" height="632" alt="raster" src="https://github.com/user-attachments/assets/2cb5098c-72d9-4e37-a00e-5cc48ec5bfbc" />
+</p>
 
 ## Step 2: Open Plugin
 
 Open Processing toolbox <br>
 <br>
-<img width="433" height="203" alt="image" src="https://github.com/user-attachments/assets/7273885f-64d5-4c73-943f-622fa83cbe42" />
+
+<p align="center">
+<img width="433" height="203" alt="processing_toolbox" src="https://github.com/user-attachments/assets/3661316d-cba1-41d9-afb8-50710128f63f" />
+</p>
+
 <br>
 Search 'PTHA Based Tsunami Inundation' tool --> Open it.
 <br>
+
+<p align="center">
 <img width="502" height="858" alt="processing_toolbox2" src="https://github.com/user-attachments/assets/72c7696e-c92d-409a-9dba-5e499747e545" />
+</p>
+
 <br>
 
 ### Input parameters:
@@ -93,14 +95,19 @@ Search 'PTHA Based Tsunami Inundation' tool --> Open it.
  * Use Layer extent if Village/Town Polygon layer is available, else draw extent of map by clicking dropdown arrow in Area of Interest field (Area if interst should be within DEM extent).
  * Choose return period
  * Set Uncertinity level
-Run 
-<img width="1112" height="767" alt="plugin" src="https://github.com/user-attachments/assets/f92bfd38-d2b2-4c57-a925-190b2e7d3bed" />
 
+Run
+
+<p align="center">
+<img width="1112" height="767" alt="plugin" src="https://github.com/user-attachments/assets/f92bfd38-d2b2-4c57-a925-190b2e7d3bed" />
+</p>
 
 ## Output
 After successful run, Hazard layer is addeed in Map window (of your area of interest). <br>
-<img width="1920" height="1032" alt="output" src="https://github.com/user-attachments/assets/753cd85c-eb62-422e-8ee6-3aa2f4c50197" />
 
+<p align="center">
+<img width="1920" height="1032" alt="output" src="https://github.com/user-attachments/assets/753cd85c-eb62-422e-8ee6-3aa2f4c50197" />
+</p>
 ---
 
 
