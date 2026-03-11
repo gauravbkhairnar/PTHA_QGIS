@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/7c114e40-6fcd-4757-a346-44311c998f47" 
-           width="520" 
+      <img src="https://github.com/user-attachments/assets/11b70294-e5ab-424c-aff9-29273d47b8d2" 
+           width="820" 
            alt="PTHA Based Tsunami Inundation Tool "/>
     </td>
     <td>
