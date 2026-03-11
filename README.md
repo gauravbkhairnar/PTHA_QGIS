@@ -43,6 +43,11 @@ Add DEM to QGIS by clicking Layer --> Add Layer --> Add Raster Layer <br>
 <br>
 <img width="932" height="715" alt="add layer" src="https://github.com/user-attachments/assets/4144a398-53de-4912-9eb2-1657653fc91e" />
 
+Click on **Browser** icon <img width="29" height="28" alt="image" src="https://github.com/user-attachments/assets/a5d358fc-f833-41d8-86db-e38c4fc36ae7" /> and select DEM directory and select DEM file.
+
+<img width="1002" height="632" alt="raster" src="https://github.com/user-attachments/assets/147efce6-c304-4b0b-afa3-a25b8e6b1372" />
+
+
 ## Step 2: Open Plugin
 
 Open Processing toolbox <br>
@@ -60,11 +65,13 @@ Search 'PTHA Based Tsunami Inundation' tool --> Open it.
  * Choose return period
  * Set Uncertinity level
 Run 
-<img width="1112" height="767" alt="image" src="https://github.com/user-attachments/assets/d0085d33-771d-44f2-9243-d0fdd7fe819f" />
+<img width="1112" height="767" alt="plugin" src="https://github.com/user-attachments/assets/f92bfd38-d2b2-4c57-a925-190b2e7d3bed" />
+
 
 ## Output
-After successful run, Hazard layer is addeed in Map window (of your area of interest). 
-
+After successful run, Hazard layer is addeed in Map window (of your area of interest). <br>
+<img width="1920" height="1032" alt="output" src="https://github.com/user-attachments/assets/753cd85c-eb62-422e-8ee6-3aa2f4c50197" />
+---
 
 
 
