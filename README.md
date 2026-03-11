@@ -44,12 +44,16 @@ Users are solely responsible for evaluating the suitability of the input dataset
   * Rename the downloaded zip file to ptha_based_tsunami_inundation_tool.zip
   * Open QGIS --> Plugins --> Manage and Install Plugins... --> install from ZIP tab --> select the renamed zip --> install plugin (If any warnings appear during installation, they can be safely ignored). <br>
 
-<div style="text-align:center; margin:20px 0;">
-<img width="475" height="245" alt="offline_plugin_install" src="https://github.com/user-attachments/assets/4f96d9d9-e250-47d1-ac76-6a2ae4d64699" /><br>
-</div>
 
 <div style="text-align:center; margin:20px 0;">
-<img width="1308" height="773" alt="offline_plugin_install2" src="https://github.com/user-attachments/assets/065b0645-731c-4cc9-ba3c-ea701a49b885" />
+<img src="https://github.com/user-attachments/assets/4f96d9d9-e250-47d1-ac76-6a2ae4d64699" 
+style="max-width:100%; border:1px solid #ccc; padding:6px;">
+</div>
+
+
+<div style="text-align:center; margin:20px 0;">
+<img src="https://github.com/user-attachments/assets/065b0645-731c-4cc9-ba3c-ea701a49b885" 
+style="max-width:100%; border:1px solid #ccc; padding:6px;">
 </div>
 
 ## Step-by-Step workflow
@@ -57,11 +61,20 @@ Users are solely responsible for evaluating the suitability of the input dataset
 
 Add DEM to QGIS by clicking Layer --> Add Layer --> Add Raster Layer <br>
 <br>
-<img width="932" height="715" alt="add layer" src="https://github.com/user-attachments/assets/4144a398-53de-4912-9eb2-1657653fc91e" />
+
+<div style="text-align:center; margin:20px 0;">
+<img src="<img width="932" height="715" alt="add layer" src="https://github.com/user-attachments/assets/4144a398-53de-4912-9eb2-1657653fc91e" />" 
+style="max-width:100%; border:1px solid #ccc; padding:6px;">
+</div>
+
 
 Click on **Browser** icon <img width="29" height="28" alt="image" src="https://github.com/user-attachments/assets/a5d358fc-f833-41d8-86db-e38c4fc36ae7" /> and select DEM directory and select DEM file.
 
-<img width="1002" height="632" alt="raster" src="https://github.com/user-attachments/assets/147efce6-c304-4b0b-afa3-a25b8e6b1372" />
+<div style="text-align:center; margin:20px 0;">
+<img src="<img width="932" height="715" alt="add layer" src="https://github.com/user-attachments/assets/147efce6-c304-4b0b-afa3-a25b8e6b1372" />" 
+style="max-width:100%; border:1px solid #ccc; padding:6px;">
+</div>
+
 
 
 ## Step 2: Open Plugin
