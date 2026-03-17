@@ -157,11 +157,13 @@ Affiliation: Indian National Centre for Ocean Information Services (INCOIS), Min
 
 ## References:
 
-Davies, G., Griffin, J., Løvholt, F., Glimsdal, S., Harbitz, C. B., Thio, H. K., Lorito, S., Basili, R., Selva, J., Geist, E., & Mueller, C. (2018). A global probabilistic tsunami hazard assessment from earthquake sources. *Geological Society, London, Special Publications*, 456(1), 219–244.
+Davies, G., Griffin, J., Løvholt, F., Glimsdal, S., Harbitz, C. B., Thio, H. K., Lorito, S., Basili, R., Selva, J., Geist, E., & Mueller, C. (2018). A global probabilistic tsunami hazard assessment from earthquake sources. Geological Society, London, Special Publications, 456(1), 219–244.
 
-Geoscience Australia. (2021). *Probabilistic Tsunami Hazard Assessment (PTHA) access tools*. Retrieved from https://github.com/GeoscienceAustralia/ptha
+Geoscience Australia. (2021). Probabilistic tsunami hazard assessment (PTHA) access tools. https://github.com/GeoscienceAustralia/ptha
 
-Synolakis, C. E. (1991). Green’s law and the evolution of solitary waves. Physics of Fluids A Fluid Dynamics, 3(3), 490.
+Synolakis, C. E. (1991). Green’s law and the evolution of solitary waves. Physics of Fluids A: Fluid Dynamics, 3(3), 490.
+
+Lalli, F., et al. (2019). Long waves approaching the coast: Green’s law generalization. Journal of Ocean Engineering and Marine Energy, 5, 385–402.
 
 
 
