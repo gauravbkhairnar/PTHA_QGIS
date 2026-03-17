@@ -38,7 +38,18 @@ Users are solely responsible for evaluating the suitability of the input dataset
 
 ---
 
+## Methodology
 
+The plugin generates rapid tsunami hazard zones using a simplified
+"bathtub" approach based on coastal elevation.
+
+Tsunami stage values from offshore/nearshore PTHA hazard points are
+translated to the coastline using Green’s Law, which approximates
+wave shoaling effects as waves propagate into shallow water.
+
+This approach provides a first-order estimate of coastal water levels
+but does not account for complex hydrodynamic processes such as
+wave breaking, friction, or flow routing.
 
 ## Installation
 ### For offline installation:
@@ -116,18 +127,7 @@ After successful run, Hazard layer is addeed in Map window (of your area of inte
 <img width="1920" height="1032" alt="output" src="https://github.com/user-attachments/assets/753cd85c-eb62-422e-8ee6-3aa2f4c50197" />
 </p>
 
-## Methodology
 
-The plugin generates rapid tsunami hazard zones using a simplified
-"bathtub" approach based on coastal elevation.
-
-Tsunami stage values from offshore/nearshore PTHA hazard points are
-translated to the coastline using Green’s Law, which approximates
-wave shoaling effects as waves propagate into shallow water.
-
-This approach provides a first-order estimate of coastal water levels
-but does not account for complex hydrodynamic processes such as
-wave breaking, friction, or flow routing.
 
 ## Methodological Limitations
 
