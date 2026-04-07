@@ -17,6 +17,8 @@ This tool automates tsunami hazard mapping by combining offshore PTHA water leve
 
 ---
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![QGIS](https://img.shields.io/badge/QGIS-plugin-Yellow.svg)](https://plugins.qgis.org/plugins/ptha_based_tsunami_inundation_tool/)
 ## Data Source
 
 This plugin utilizes **Probabilistic Tsunami Hazard Assessment (PTHA)** point data and associated water level estimates derived using the methodology and tools developed by Geoscience Australia.
